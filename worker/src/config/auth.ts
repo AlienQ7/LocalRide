@@ -1,0 +1,5 @@
+export const AUTH_CONFIG = {
+  TOKEN_EXPIRY: "7h",
+  MAX_LOGIN_ATTEMPTS: 5,
+  LOCK_TIME_MINUTES: 30,
+};
