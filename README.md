@@ -1,3 +1,5 @@
+https://docs.google.com/spreadsheets/d/1ZHY--ytpJfZSzt1iMx_5wCEfSghhaX2N93Onbu58-LI/edit?usp=sharing
+
 131. Rubio-isa tan hopta tatembanglen Gujarat kübok Jamnagar-a semdangtsü.
 132. "Alima nung supplies aser jenjang mejungi kongshiba ajanga tesüiba ita ishika onoki saru agientsüsa aküm," ta pai metetdaktsü.
 133. Rubio-isa, linüktemi foreign policy telemtetba agidang energy security aser tensa ajanga tongti shilem agia liasü, ta metetdaktsü.
